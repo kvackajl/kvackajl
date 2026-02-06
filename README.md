@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Lukas, currently im studying BUT FIT.
+I'm Lukas.
 
 Tech i use
 > C
